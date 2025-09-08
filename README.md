@@ -1,9 +1,20 @@
 # Lucarion
-Hi 👋, I'm Muhammad Salman Alfarisi dengan NIM 230605110060. Saya Mahasiswa Teknik Informatika UIN Malang
+Hello! 👋 I'm an Informatics student passionate about building things, both with code and with words. For me, software development and storytelling share a common core: creating entire worlds and experiences from a blank page.
 
-| No | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
+This GitHub is my public blueprint collection. It's a transparent log of my journey—from initial concepts and messy prototypes to finished projects. You'll find my successes and the bugs I've squashed along the way.
+
+🔧 **Currently Architecting:**
+Mobile Apps that are intuitive, clean, and aim to solve real-world problems.
+
+✍️ **Offline Pursuits:**
+Crafting fictional worlds in my stories and exploring professionally-built ones in video games 🎮. I'm fascinated by game design and narrative structure.
+
+🚀 **Status:**
+Always learning, always creating.
+
+| No | Minggu ke | Praktikum ke | Topik | Modul | Laporan Praktikum |
 |----|-----------|--------------|-------|-------|------------------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [Template laporan](#) |
-| 2  | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Template laporan](#) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01] | [Laporan Praktikum](https://docs.google.com/document/d/1TMx0qiSN0Y5iieuE5TLPcz2C5UcShg62/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) |
+| 2  | 01        | 01           | Widget Row dan Column | [Modul 02] | [Laporan Praktikum] |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03] | [Laporan Praktikum] |
+| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04] | [Laporan Praktikum] |
