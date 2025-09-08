@@ -1,10 +1,10 @@
 # Lucarion
-Hello! 👋 I'm an Informatics student passionate about building things, both with code and with words. For me, software development and storytelling share a common core: creating entire worlds and experiences from a blank page.
+Hello! 👋 I'm Muhammad Salman Alfarisi, an Informatics Engineering student passionate about building things, both with code and with words. For me, software development and storytelling share a common core: creating entire worlds and experiences from a blank page.
 
 This GitHub is my public blueprint collection. It's a transparent log of my journey—from initial concepts and messy prototypes to finished projects. You'll find my successes and the bugs I've squashed along the way.
 
 🔧 **Currently Architecting:**
-Mobile Apps that are intuitive, clean, and aim to solve real-world problems.
+Exploring the world of Mobile Programming. Mobile Apps that are intuitive, clean, and aim to solve real-world problems.
 
 ✍️ **Offline Pursuits:**
 Crafting fictional worlds in my stories and exploring professionally-built ones in video games 🎮. I'm fascinated by game design and narrative structure.
