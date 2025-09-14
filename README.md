@@ -1,6 +1,10 @@
 # SalmanLucarion
 Hello! 👋 I'm Muhammad Salman Alfarisi, an Informatics Engineering student passionate about building things, both with code and with words. For me, software development and storytelling share a common core: creating entire worlds and experiences from a blank page.
 
+🆔 NIM: 230605110060
+🏫 Kelas: C
+📚 Course: Praktikum Mobile Progamming
+
 This GitHub is my public blueprint collection. It's a transparent log of my journey—from initial concepts and messy prototypes to finished projects. You'll find my successes and the bugs I've squashed along the way.
 
 🔧 **Currently Architecting:**
