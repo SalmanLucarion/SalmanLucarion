@@ -21,7 +21,7 @@ Always learning, always creating.
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1TMx0qiSN0Y5iieuE5TLPcz2C5UcShg62/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%201/lib/main.dart) |
 | 2  | 01        | 01           | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/17vUpZIux2QlrtFevB9mnhJLT8scvUKam/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%202/lib/main.dart) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/1zkttgu-zDlUTA1YA5zRwVRSL7SuWymAf/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%203/lib/main.dart) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%204/lib/main.dart) |
+| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1RNUak8XrZtQnOCuXeBqvmVPAbh4rRAKk/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%204/lib/main.dart) |
 | 5  | 03        | 03           |  | [Modul 05] | [Repository] |
 | 6  | 03        | 03           |  | [Modul 06] | [Repository] |
 | 7  | 04        | 04           |  | [Modul 07] | [Repository] |
