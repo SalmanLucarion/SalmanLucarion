@@ -22,7 +22,7 @@ Always learning, always creating.
 | 2  | 01        | 01           | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/17vUpZIux2QlrtFevB9mnhJLT8scvUKam/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%202/lib/main.dart) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/1zkttgu-zDlUTA1YA5zRwVRSL7SuWymAf/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%203/lib/main.dart) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1RNUak8XrZtQnOCuXeBqvmVPAbh4rRAKk/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%204/lib/main.dart) |
-| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05] | [Repository] |
+| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%205) |
 | 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06] | [Repository] |
 | 7  | 04        | 04           |  | [Modul 07] | [Repository] |
 | 8  | 04        | 04           |  | [Modul 08] | [Repository] |
