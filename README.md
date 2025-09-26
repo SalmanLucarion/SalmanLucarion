@@ -24,5 +24,9 @@ Always learning, always creating.
 | 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1RNUak8XrZtQnOCuXeBqvmVPAbh4rRAKk/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%204/lib/main.dart) |
 | 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/1t1GUM0yp43itrt4hC8c1bIaa_IxJY6QA/edit?usp=drive_link&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%205) |
 | 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1Nyiak9KYVkP_AcTlU4noJ2HAo1OWgNsJ/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%206) |
-| 7  | 04        | 04           |  | [Modul 07] | [Repository] |
-| 8  | 04        | 04           |  | [Modul 08] | [Repository] |
+| 7  | 04        | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07] | [Repository] |
+| 8  | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08] | [Repository] |
+| 9  | 05        | 05           |  | [Modul 09] | [Repository] |
+| 10  | 05        | 05           |  | [Modul 10] | [Repository] |
+| 11  | 06        | 06           |  | [Modul 11] | [Repository] |
+| 12  | 06        | 06           |  | [Modul 12] | [Repository] |
