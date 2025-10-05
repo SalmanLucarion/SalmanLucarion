@@ -30,8 +30,8 @@ Always learning, always creating.
 | 10  | 06        | 06           |  | [Modul 10] | [Repository] |
 | 11  | 06        | 06           |  | [Modul 11] | [Repository] |
 | 12  | 07        | 07           |  | [Modul 12] | [Repository] |
-| 10  | 07        | 07           |  | [Modul 13] | [Repository] |
-| 11  | 08        | 08           |  | [Modul 14] | [Repository] |
-| 12  | 08        | 08           |  | [Modul 15] | [Repository] |
-| 10  | 09        | 09           |  | [Modul 16] | [Repository] |
+| 13  | 07        | 07           |  | [Modul 13] | [Repository] |
+| 14  | 08        | 08           |  | [Modul 14] | [Repository] |
+| 15  | 08        | 08           |  | [Modul 15] | [Repository] |
+| 16  | 09        | 09           |  | [Modul 16] | [Repository] |
 
