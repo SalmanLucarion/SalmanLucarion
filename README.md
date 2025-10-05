@@ -27,6 +27,6 @@ Always learning, always creating.
 | 7  | 04        | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/13NFDFAaM4kaX4rjB43TnuaodqAUiUs0Y/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%207/Named_Route) |
 | 8  | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1arhwr0E8-hFu7WoKxTfbD22ntwedHW7O/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%208/navigasi_named_routed/lib) |
 | 9  | 05        | 05           | StatefulWidget | [Modul 09] | [Repository] |
-| 10  | 05        | 05           |  | [Modul 10] | [Repository] |
+| 10  | 05        | 05           |  | [Modul 10] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%209/tasbih_app/lib/main.dart) |
 | 11  | 06        | 06           |  | [Modul 11] | [Repository] |
 | 12  | 06        | 06           |  | [Modul 12] | [Repository] |
