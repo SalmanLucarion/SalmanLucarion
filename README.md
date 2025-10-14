@@ -28,10 +28,10 @@ Always learning, always creating.
 | 8  | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1arhwr0E8-hFu7WoKxTfbD22ntwedHW7O/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%208/navigasi_named_routed/lib) |
 | 9  | 05        | 05           | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1wakCkklyUmc0V28GkdJ2deQ94YD0TRNq/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%209/tasbih_app/lib/main.dart) |
 | 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2010/lib) |
-| 11  | 06        | 06           | Manajemen State dengan GetX | [Modul 11] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2011/lib) |
-| 12  | 07        | 07           |  | [Modul 12] | [Repository] |
-| 13  | 07        | 07           |  | [Modul 13] | [Repository] |
-| 14  | 08        | 08           |  | [Modul 14] | [Repository] |
-| 15  | 08        | 08           |  | [Modul 15] | [Repository] |
-| 16  | 09        | 09           |  | [Modul 16] | [Repository] |
+| 11  | 07        | 07           | Manajemen State dengan GetX | [Modul 11] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2011/lib) |
+| 12  | 08        | 08           |  | [Modul 12] | [Repository] |
+| 13  | 08        | 08           |  | [Modul 13] | [Repository] |
+| 14  | 09        | 09           |  | [Modul 14] | [Repository] |
+| 15  | 09        | 09           |  | [Modul 15] | [Repository] |
+| 16  | 10        | 10           |  | [Modul 16] | [Repository] |
 
