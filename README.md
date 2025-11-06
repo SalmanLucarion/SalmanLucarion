@@ -29,7 +29,7 @@ Always learning, always creating.
 | 9  | 05        | 05           | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1wakCkklyUmc0V28GkdJ2deQ94YD0TRNq/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/blob/main/Modul%209/tasbih_app/lib/main.dart) |
 | 10  | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/11HBCtNrmzTq9blFUyxUj9xQYa4gm4NWS/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2010/lib) |
 | 11  | 07        | 07           | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1BW62SMFSrN1WwpKx8MyIMmBWAkuJDJ3W/edit?usp=sharing&ouid=102104130278013084730&rtpof=true&sd=true) | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2011/lib) |
-| 12  | 08        | 08           | Akses Lokasi dengan GPS di Flutter  | [Modul 12] | [Repository] |
+| 12  | 08        | 08           | Akses Lokasi dengan GPS di Flutter  | [Modul 12] | [Repository](https://github.com/SalmanLucarion/SalmanLucarion/tree/main/Modul%2012/lokasi_flutter/lib) |
 | 13  | 08        | 08           |  | [Modul 13] | [Repository] |
 | 14  | 09        | 09           |  | [Modul 14] | [Repository] |
 | 15  | 09        | 09           |  | [Modul 15] | [Repository] |
